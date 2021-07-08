@@ -460,4 +460,4 @@ async def leave(ctx):
 
 
 
-client.run('ODExNDQ3MzI4OTcxNDIzNzQ0.YCyVNw._uym9iC3JvhiRV7k6jITNy53SwY')
+client.run('ODExNDQ3MzI4OTcxNDIzNzQ0.YCyVNw.-njUg6EwEA-Z0sRuMCNZGhqt358')
